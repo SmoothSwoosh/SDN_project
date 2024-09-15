@@ -1,0 +1,11 @@
+Node 1(id), Node 2(id), Path type, Path, Delay (mks)
+2,0,main,"[2, 0]",14320
+2,0,reserve,no
+2,1,main,"[2, 1]",13449
+2,1,reserve,no
+2,3,main,"[2, 4, 3]",4653
+2,3,reserve,no
+2,4,main,"[2, 4]",4591
+2,4,reserve,no
+2,5,main,"[2, 5]",4536
+2,5,reserve,no

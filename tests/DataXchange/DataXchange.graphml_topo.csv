@@ -1,0 +1,23 @@
+Node 1(id), Node 1(label), Node 1(longitude), Node 1(latitude),Node 2(id), Node 2(label), Node 2(longitude), Node 2(latitude),Distance (km), Delay (mks)
+0,"San Francisco",-122.419,37.7749,1,"Los Angeles",-118.244,34.0522,558,2683
+0,"San Francisco",-122.419,37.7749,2,"Chicago",-87.65,41.85,2983,14320
+0,"San Francisco",-122.419,37.7749,4,"Washington, DC",-77.0364,38.8951,3918,18810
+0,"San Francisco",-122.419,37.7749,5,"Atlanta",-84.388,33.749,3436,16497
+1,"Los Angeles",-118.244,34.0522,0,"San Francisco",-122.419,37.7749,558,2683
+1,"Los Angeles",-118.244,34.0522,2,"Chicago",-87.65,41.85,2801,13449
+1,"Los Angeles",-118.244,34.0522,4,"Washington, DC",-77.0364,38.8951,3692,17722
+1,"Los Angeles",-118.244,34.0522,5,"Atlanta",-84.388,33.749,3110,14929
+2,"Chicago",-87.65,41.85,0,"San Francisco",-122.419,37.7749,2983,14320
+2,"Chicago",-87.65,41.85,1,"Los Angeles",-118.244,34.0522,2801,13449
+2,"Chicago",-87.65,41.85,4,"Washington, DC",-77.0364,38.8951,956,4591
+2,"Chicago",-87.65,41.85,5,"Atlanta",-84.388,33.749,945,4536
+3,"McLean",-77.1775,38.9343,4,"Washington, DC",-77.0364,38.8951,12,62
+4,"Washington, DC",-77.0364,38.8951,0,"San Francisco",-122.419,37.7749,3918,18810
+4,"Washington, DC",-77.0364,38.8951,1,"Los Angeles",-118.244,34.0522,3692,17722
+4,"Washington, DC",-77.0364,38.8951,2,"Chicago",-87.65,41.85,956,4591
+4,"Washington, DC",-77.0364,38.8951,3,"McLean",-77.1775,38.9343,12,62
+4,"Washington, DC",-77.0364,38.8951,5,"Atlanta",-84.388,33.749,871,4185
+5,"Atlanta",-84.388,33.749,0,"San Francisco",-122.419,37.7749,3436,16497
+5,"Atlanta",-84.388,33.749,1,"Los Angeles",-118.244,34.0522,3110,14929
+5,"Atlanta",-84.388,33.749,2,"Chicago",-87.65,41.85,945,4536
+5,"Atlanta",-84.388,33.749,4,"Washington, DC",-77.0364,38.8951,871,4185
